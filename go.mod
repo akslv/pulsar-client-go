@@ -1,4 +1,4 @@
-module github.com/akslv/pulsar-client-go/v2.4.1
+module github.com/akslv/pulsar-client-go
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
