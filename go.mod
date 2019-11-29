@@ -1,4 +1,4 @@
-module github.com/apache/pulsar/pulsar-client-go
+module github.com/akslv/pulsar-client-go/v2.4.1
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
@@ -13,3 +13,5 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
+
+go 1.13
